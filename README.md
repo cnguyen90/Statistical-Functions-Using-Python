@@ -2,11 +2,11 @@
 This project include a packet of python codes that can be used to find all basic statistical parameters and conducted advanced statistical tests like T-test, Chi2 test, F test and hypothesis testing 
 Python packages being applied in this project include Numpy, Scipy, Matplotlib, and Ipython/Jupiter Notebook
 
-###Basic Parameters:
+### Basic Parameters:
 
 Mean, Median, Mode, Standard Deviation, Variance, Quartile, IQR, Percentile, Skewness, CoVariance, Z-Score, Outlier, Co-relation coefficient, Permutation, combination, factorial.
 
-###Distributions:
+### Distributions:
 
 Binomial
 
@@ -21,7 +21,7 @@ Exponential
 To test Central Limit theorm with Uniform Distribution.
 
 
-###Confidence Interval estimation:
+### Confidence Interval estimation:
 
 With mean & proportion
 
@@ -33,7 +33,7 @@ Population variance
 
 
 
-###Hypothesis Test:
+### Hypothesis Test:
 
 For mean: 
 Upper tailed,lower tailed, two tailed test for both sample and population.
