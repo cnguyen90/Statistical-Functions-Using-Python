@@ -1,4 +1,4 @@
-# Statistical-Functions-Using-Python
+# Statistical Functions Using Python
 This project include a packet of python codes that can be used to find all basic statistical parameters and conducted advanced statistical tests like T-test, Chi2 test, F test and hypothesis testing 
 Python packages being applied in this project include Numpy, Scipy, Matplotlib, and Ipython/Jupiter Notebook
 
